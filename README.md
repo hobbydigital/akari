@@ -40,9 +40,10 @@ We contend that the early home micros had the right idea, and that ever more pow
 
 Again, the project is in its infancy. One fully compliant clone exists, which is running a version of Apex, but there is still work to be done before the distro is even ready for early adopters.
 
-These docs are in various states of completion, and are being actively worked on.
+These docs are in various states of completion, and are being actively worked on. Everything else we have is in [the wiki][3].
 
 Feel free to open an issue, even just to ask a quick question or offer some input. This project is fundamentally about building a community. The sooner we start with that, the better.
 
 [1]: https://github.com/hobbydigital/akari/wiki/The-HD-Akari-Hardware-Specification
 [2]: https://github.com/hobbydigital/akari/wiki/The-Apex-Operating-System
+[3]: https://github.com/hobbydigital/akari/wiki
