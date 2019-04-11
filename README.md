@@ -8,9 +8,9 @@ This repo contains all of the project documentation. You should familiarize your
 
 The Akari uses [modern hardware][1], running [Apex][2], a Linux distibution that is derived from Raspbian Lite. However, the peripherals are fully standardized (a feature we named *holistic standardization*), and the operating system has been extended to support a more traditional paradigm (a feature we named *holistic wizardry*).
 
-Instead of manufacturing the system, the project takes some inspiration from fantasy consoles (like *PICO-8* and *TIC-80*), and instead defines an idealized fictional microcomputer, with specs that make it easy and affordable for anyone to cobble together a fully compatible clone from readily available components (in real life).
+Instead of manufacturing the system, the project takes some inspiration from fantasy consoles (like *PICO-8* and *TIC-80*), and instead begins by defining an idealized, fictional microcomputer, but with specs that make it easy and affordable for anyone to cobble together a fully compatible clone from readily available components.
 
-We could have just said that each clone is a clone of all the other clones, but having a fictional company behind our fictional microcomputer allows us to have fun creating lore and a brand, and gives the community something tangible to indentify with - to put on a sticker. The backstory will be developed openly, so anyone can open an issue and make a contribution.
+We could have just said that each clone is a clone of all of the other clones, but having a fictional company behind our fictional microcomputer allows us to have fun creating lore and a brand, and gives the community something tangible to indentify with - to put on a sticker. The backstory will be developed openly, so anyone can open an issue and make a contribution.
 
 
 ## Holistic Standardization
