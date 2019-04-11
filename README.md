@@ -6,19 +6,19 @@ This repo contains all of the project documentation. You should familiarize your
 
 ## The Akari Agenda
 
-The Akari uses [modern hardware][1], running a bespoke [Apex Linux distibution][2] that is derived from Raspbian Lite. However, the system's peripherals are fully standardized (a feature we named *holistic standardization*), and the operating system has been extended to support a more traditional paradigm (a feature we named *holistic wizardry*).
+The Akari uses [modern hardware][1], running [Apex][2], a Linux distibution that is derived from Raspbian Lite. However, the peripherals are fully standardized (a feature we named *holistic standardization*), and the operating system has been extended to support a more traditional paradigm (a feature we named *holistic wizardry*).
 
 Instead of manufacturing the system, the project takes some inspiration from fantasy consoles (like *PICO-8* and *TIC-80*), and instead defines an idealized fictional microcomputer, with specs that make it easy and affordable for anyone to cobble together a fully compatible clone from readily available components (in real life).
 
-We could have just said that each clone is a clone of all the other clones, but, having a fictional company behind our fictional microcomputer allows us to have fun creating lore and a brand, and gives the community something tangible to indentify with - to put on a sticker. This side of the project will be developed openly in the wiki just like the other documentation, so anybody can open an issue and make a contribution.
+We could have just said that each clone is a clone of all the other clones, but having a fictional company behind our fictional microcomputer allows us to have fun creating lore and a brand, and gives the community something tangible to indentify with - to put on a sticker. The backstory will be developed openly, so anyone can open an issue and make a contribution.
 
 
 ## Holistic Standardization
 
 
-The [Akari Hardware Specification][1] aims to be as flexible as possible, while still guaranteeing that anything developed by one person will work the same way for every other member of the community. In simple terms, we specify the board (the *RaspberryPi 3 Model B+*), the resolution of the monitor (1080p), the keyboard layout (ANSI US) and the gamepads (one to four 8BitDo *SN30 Pro* or *SF30 Pro* controllers).
+The [Akari Hardware Specification][1] aims to be as flexible as possible, while still guaranteeing that anything developed by one person will work the same way for every other member of the community.
 
-**Note:** The spec is only designed to provide a common baseline that the community
+In simple terms, we specify the board (the *RaspberryPi 3 Model B+*), the resolution of the monitor (1080p), the keyboard layout (ANSI US) and the gamepads (*SN30 Pro* or *SF30 Pro* controllers from 8BitDo).
 
 
 ## Holistic Wizardry
