@@ -33,12 +33,16 @@ In principle, *any* desktop application could have been implented to be launched
 
 The HD Akari reintroduces the traditional paradigm. It boots to a `bash` shell, in a `tmux` enhanced TTY, and provides APIs for rendering 2D and 3D graphics to the framebuffer. It also adds APIs for audio, user input and everything else you need to make videogames. The OS also includes libraries that greatly simplify developing advanced shells and console applications.
 
-We contend that the early home micros had the right idea, and that ever more powerful wizardry is the paradigm that actually offers the best of both worlds, while the desktop paradigm only became popular because it is does not require basic computer literacy, which is arguably its greatest weakness.
+We contend that the early home micros had the right idea, and that ever more powerful wizardry is the approach that actually offers the best of both worlds. Furthermore, the desktop paradigm only became popular because it is does not require basic computer literacy, which is arguably its greatest weakness.
 
 
 ## Project Status
 
-Again, the project is in its infancy, and the 
+Again, the project is in its infancy. One fully compliant clone exists, which is running a version of Apex, but there is still work to be done before the distro is even ready for early adopters.
+
+These docs are in various states of completion, and are being actively worked on.
+
+Feel free to open an issue, even just to ask a quick question or offer some input. This project is fundamentally about building a community. The sooner we start the better.
 
 [1]: https://github.com/hobbydigital/akari/wiki/The-HD-Akari-Hardware-Specification
 [2]: https://github.com/hobbydigital/akari/wiki/The-Apex-Operating-System
